@@ -2,7 +2,7 @@ name: Cron Action
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '*/15 * * * *'
 
 
 jobs:
@@ -32,7 +32,7 @@ jobs:
         run: python rss2telegram.py
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          DESTINATION: ${{ vars.DESTINATION }}
+          DESTINATION: ${{ secrets.DESTINATION }}
           URL: ${{ vars.URL }}
           EMOJIS: ${{ vars.EMOJIS }}
           TOPIC: ${{ vars.TOPIC }}
