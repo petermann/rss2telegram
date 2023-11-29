@@ -3,6 +3,7 @@ ACCEPT:Disruption
 ACCEPT:New York
 ACCEPT:Louis
 ACCEPT:Dusseldorf
+ACCEPT:Portsmouth
 ACCEPT:host system 4496
 ACCEPT:host system 17831
 ACCEPT:host system 14496
@@ -10,3 +11,4 @@ ACCEPT:host system 14842
 ACCEPT:host system 14373
 ACCEPT:host system 14373
 ACCEPT:host system 14084
+ACCEPT:host system 20590
