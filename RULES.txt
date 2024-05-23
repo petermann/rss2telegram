@@ -12,3 +12,6 @@ ACCEPT:host system 14373
 ACCEPT:host system 14373
 ACCEPT:host system 14084
 ACCEPT:host system 20590
+ACCEPT:host system 17916
+ACCEPT:host system 14503
+ACCEPT:status.iugu.com
