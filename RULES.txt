@@ -4,14 +4,15 @@ ACCEPT:New York
 ACCEPT:Louis
 ACCEPT:Dusseldorf
 ACCEPT:Portsmouth
-ACCEPT:host system 4496
+ACCEPT:host system 18497
 ACCEPT:host system 17831
-ACCEPT:host system 14496
-ACCEPT:host system 14842
+ACCEPT:host system 17421
 ACCEPT:host system 14373
-ACCEPT:host system 14373
-ACCEPT:host system 14084
-ACCEPT:host system 20590
 ACCEPT:host system 17916
 ACCEPT:host system 14503
+ACCEPT:host system 18513
+ACCEPT:host system 23144
+ACCEPT:host system 21820
+ACCEPT:host system 28705
+ACCEPT:host system 23127
 ACCEPT:status.iugu.com
